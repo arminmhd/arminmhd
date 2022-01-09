@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @arminmhd
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning app developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me instagram arminmhd20
 
 <!---
-i hope i can help you 😁❤
+i hope i can help you❤
 --->
