@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @arminmhd
-- 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning app developing
-- 📫 How to reach me instagram arminmhd20
+- 👀 I’m interested in flutter 
+- 🌱 I’m currently learning Kotlin
+- follow me on linkedIn Armin Mohammadi
+
 
 <!---
 i hope i can help you❤
